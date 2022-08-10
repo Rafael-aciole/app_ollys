@@ -19,7 +19,7 @@ export const Content = styled.ScrollView.attrs({
     },
 })`
     width: 100%;
-    padding: 0 32px;
+    padding: 0 22px;
 `;
 
 export const Login = styled.Text`

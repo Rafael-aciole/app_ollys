@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "723254880031",
+    "project_id": "ollys-bb0e2",
+    "storage_bucket": "ollys-bb0e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723254880031:android:3f00b6e87dad15c941322a",
+        "android_client_info": {
+          "package_name": "com.appollys"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "723254880031-521cdnj7kjj9ue62hjiifm9ucqrmk084.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz0yHxPyXKiz-AO1xM77SrujX9dt-aYIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "723254880031-521cdnj7kjj9ue62hjiifm9ucqrmk084.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
